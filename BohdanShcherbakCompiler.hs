@@ -85,7 +85,6 @@ operToInst op = do
 	case op of
 		BAnd -> return [MAnd]
 		BOr  -> return [MOr]
-		BNeq -> return [MNeg]
 		BAdd -> return [MAdd]
 		BSub -> return [MSub]
 		BMul -> return [MMul]
@@ -108,6 +107,7 @@ operToInst op = do
 				BLe  -> MC_LE
 				BGt  -> MC_GT
 				BGe  -> MC_GE
+				BNeq -> MC_NE -- popr.
 
 -- Jasne co robi
 compile :: [FunctionDef p] -> [Var] -> Expr p -> [MInstr]
