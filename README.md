@@ -3,7 +3,7 @@ Jestem dumny z tego, że napisałem plik BohdanShcherbakCompiler.hs jako rozwią
 
 Autorem pliku BohdanShcherbak.hs jest mój kolega Konrad Werbliński.
 
-Program w tym języku programowania składa się z listy funkcji i wiersza 
+Program w tym języku programowania składa się z listy funkcji i wiersza:
 ```
 input [lista zmiennych] in [wyrażenie, które może zawierać te zmienne i funkcje]
 ```
