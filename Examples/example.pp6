@@ -1,0 +1,3 @@
+
+fun plus(xy : int * int) : int = fst xy + snd xy 
+input x y in plus(x, y)
