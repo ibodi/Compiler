@@ -1,7 +1,7 @@
 
 ## Compiler of simple functional programming language 
 
-The only file in this project that was written by me is `BohdanShcherbakCompiler.hs`. All the other files are written by employees of Institute of Computer Science of University of Wroclaw. `BohdanShcherbakCompiler.hs` is the solution to the task defined in jako `Tasks/prac456_extra.pdf` (in Polish). The file `BohdanShcherbakCompiler.hs` contains a compiler of a simple programming language which is described in files `Tasks/prac4.pdf`, `Tasks/prac5.pdf` and `Tasks/prac6.pdf`. Examples of programs written in this language are in `Examples` catalog.
+The only file in this project that was written by me is `BohdanShcherbakCompiler.hs`. All the other files are written by employees of Institute of Computer Science of University of Wroclaw. `BohdanShcherbakCompiler.hs` is the solution to the task defined in `Tasks/prac456_extra.pdf` (in Polish). The file `BohdanShcherbakCompiler.hs` contains a compiler of a simple programming language which is described in files `Tasks/prac4.pdf`, `Tasks/prac5.pdf` and `Tasks/prac6.pdf`. Examples of programs written in this language are in `Examples` catalog.
 
 The author of the file BohdanShcherbak.hs is Konrad Werbliński. 
 
