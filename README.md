@@ -3,7 +3,7 @@
 
 The only file in this project that was written by me is `BohdanShcherbakCompiler.hs`. All the other files are written by employees of Institute of Computer Science of University of Wroclaw. `BohdanShcherbakCompiler.hs` is the solution to the task defined in `Tasks/prac456_extra.pdf` (in Polish). The file `BohdanShcherbakCompiler.hs` contains a compiler of a simple programming language which is described in files `Tasks/prac4.pdf`, `Tasks/prac5.pdf` and `Tasks/prac6.pdf`. Examples of programs written in this language are in `Examples` catalog.
 
-The author of the file BohdanShcherbak.hs is Konrad Werbliński. 
+The author of the file `BohdanShcherbak.hs` and all the files in the `Example` folder is Konrad Werbliński. 
 
 A program written in this language consists of list of functions and a line:
 ```
@@ -20,7 +20,7 @@ $ make
 $ ./Comp6 ./Examples/example.pp6
 $ ./emu6809 ./Examples/example.b09
 ```
-Then you would have to enter values of every input variable in the list of variables of the input instruction of the program. Then you will see the result of evaluation of the expression of the input insruction. For example:
+Then you would have to enter values of every input variable in the list of variables of the input instruction of the program. Then you will see the result of evaluation of the expression of the input instruction. For example:
 ```
 x = 5
 y = 6
